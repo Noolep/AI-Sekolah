@@ -60,7 +60,8 @@ streamlit run app.py
 app.py: Kode utama aplikasi (Streamlit UI & Logika Agent).
 
 README.md: Dokumentasi instalasi.
-🔧 Konfigurasi Model
+
+### 🔧 Konfigurasi Model
 Jika terjadi error Model decommissioned, buka file app.py dan ganti nama model pada bagian ChatGroq:
 
 ```bash
